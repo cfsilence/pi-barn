@@ -131,9 +131,6 @@ com.cfsilence.gpio = [
         YLed       : 6, // PI4J pin
 ]
 
-com.cfsilence.smsDestinations = ['']
-com.cfsilence.home = [lat: , lon: ]
-
 com.cfsilence.rf = [
         outlet0: [
                 schedule   : 'nightly',
